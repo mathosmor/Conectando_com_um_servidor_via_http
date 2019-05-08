@@ -35,7 +35,7 @@
 				@click="excluir(id)">Excluir</b-button>
 			</b-list-group-item>
 		</b-list-group>
-		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	</div>
 </template>
 
